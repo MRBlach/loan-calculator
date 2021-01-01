@@ -1,4 +1,3 @@
-//eeeeeeeeeeeeeeeEVENT LISTENERS
 //Listen for submit
 document.getElementById('loan-form').addEventListener('submit', function(e){
  
@@ -10,7 +9,6 @@ document.getElementById('loan-form').addEventListener('submit', function(e){
   e.preventDefault();
 });
 
-//fffffffffffffffFUNCTIONS
 //Calculate results function
 function calculateResults(){
   
